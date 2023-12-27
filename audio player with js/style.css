@@ -1,0 +1,25 @@
+body{
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    gap: 30px;
+    overflow-x: hidden;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(87, 40, 6);
+}
+.anim{
+    box-shadow: 0 15px 18px 0 rgb(255, 110, 52);
+    opacity: 0.9;
+    transition: box-shadow 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
