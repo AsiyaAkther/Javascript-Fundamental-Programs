@@ -1,0 +1,40 @@
+{
+    "students": [
+        {
+            "name": "Asiya Akther",
+            "middlename": null,
+            "age": 26,
+            "cgpa": 3.36,
+            "isRegistered": true,
+            "languages": ["Bangali", "English", "Hindi"],
+            "friends": [
+                {
+                    "name": "Santosh",
+                    "age": 28
+                },
+                {
+                    "name": "Rumana",
+                    "age": 26
+                }
+            ]
+        },
+        {
+            "name": "Rumana Akther",
+            "middlename": null,
+            "age": 26,
+            "cgpa": 3.05,
+            "isRegistered": true,
+            "languages": ["Bangali", "English"],
+            "friends": [
+                {
+                    "name": "Liza",
+                    "age": 27
+                },
+                {
+                    "name": "Asiya",
+                    "age": 26
+                }
+            ]
+        }
+    ]
+}
